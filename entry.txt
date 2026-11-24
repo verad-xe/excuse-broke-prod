@@ -1,0 +1,1 @@
+Good news: I've already written the postmortem. Bad news: it blames you, and it's very convincing.
